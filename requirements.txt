@@ -1,0 +1,13 @@
+beautifulsoup4
+requests
+yt-dlp
+moviepy
+python-docx
+PyPDF2
+whisper
+pydub
+ffmpeg-python
+langchain
+huggingface_hub
+chromadb
+transformers
